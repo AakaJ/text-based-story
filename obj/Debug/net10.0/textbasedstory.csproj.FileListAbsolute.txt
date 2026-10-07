@@ -1,0 +1,16 @@
+C:\Users\Aaka\source\repos\textbasedstory\textbasedstory\bin\Debug\net10.0\textbasedstory.exe
+C:\Users\Aaka\source\repos\textbasedstory\textbasedstory\bin\Debug\net10.0\textbasedstory.deps.json
+C:\Users\Aaka\source\repos\textbasedstory\textbasedstory\bin\Debug\net10.0\textbasedstory.runtimeconfig.json
+C:\Users\Aaka\source\repos\textbasedstory\textbasedstory\bin\Debug\net10.0\textbasedstory.dll
+C:\Users\Aaka\source\repos\textbasedstory\textbasedstory\bin\Debug\net10.0\textbasedstory.pdb
+C:\Users\Aaka\source\repos\textbasedstory\textbasedstory\obj\Debug\net10.0\textbasedstory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaka\source\repos\textbasedstory\textbasedstory\obj\Debug\net10.0\textbasedstory.AssemblyInfoInputs.cache
+C:\Users\Aaka\source\repos\textbasedstory\textbasedstory\obj\Debug\net10.0\textbasedstory.AssemblyInfo.cs
+C:\Users\Aaka\source\repos\textbasedstory\textbasedstory\obj\Debug\net10.0\textbasedstory.csproj.CoreCompileInputs.cache
+C:\Users\Aaka\source\repos\textbasedstory\textbasedstory\obj\Debug\net10.0\textbasedstory.sourcelink.json
+C:\Users\Aaka\source\repos\textbasedstory\textbasedstory\obj\Debug\net10.0\textbasedstory.dll
+C:\Users\Aaka\source\repos\textbasedstory\textbasedstory\obj\Debug\net10.0\refint\textbasedstory.dll
+C:\Users\Aaka\source\repos\textbasedstory\textbasedstory\obj\Debug\net10.0\textbasedstory.pdb
+C:\Users\Aaka\source\repos\textbasedstory\textbasedstory\obj\Debug\net10.0\textbasedstory.genruntimeconfig.cache
+C:\Users\Aaka\source\repos\textbasedstory\textbasedstory\obj\Debug\net10.0\ref\textbasedstory.dll
+C:\Users\Aaka\source\repos\textbasedstory\textbasedstory\obj\Debug\net10.0\textbase.C61A1D5E.Up2Date
